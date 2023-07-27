@@ -44,7 +44,7 @@ int main() {
     printf( "Grade : " ) ;
     if( score >= 80 ) {
         printf( " A " ) ;
-    } else if( score >= 75 && score < 80 ) {
+    } else if( score >= 75 && score < 80 ){
         printf( " B+ " ) ;
     } else if( score >= 70 && score < 75 ){
         printf( " B " ) ;
